@@ -1,2 +1,2 @@
-# Simple-API-
+# Simple-Restful-API
 A simple Restful API using javascript server. 
